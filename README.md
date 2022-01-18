@@ -1,4 +1,4 @@
-# Project 1: Soundscape Narrative
+# Project 1: Audio Narrative
 
 Your task in this unit is to **arrange layers of sound to convey a sense of place and story.** In assigning this, I have two main goals for you: (1) to learn how to capture sound and edit it using digital tools, and (2) to explore the affordances of sound as a medium, with particular attention to its ability to communicate *immersive environment* and *narrative pacing and change*. The genre of the narrative you convey is open: it could be documentary, fictional, even science-fictional. (The title you choose will help steer listeners' expectations, and thus their perceptions.)
 
