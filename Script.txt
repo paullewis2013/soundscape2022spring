@@ -27,20 +27,22 @@
 
 <running sounds this time>
 
-----------------------------
-TODO: expand on this next part
+<outside door messing with rug, scratching sounds>
+"Hey hang on, luna's messing with my doormat"
+<open door sound>
+"No Luna come on"
+<purring>
 
-hallway
+"Yeah she's in my room but she's probably fine if she doesn't try to eat my plant again"
+"No get down from there"
+<plant crunching>
 
-Bathroom
+"Alright I'm going to have to put you back in the hallway"
+<protest meow>
+<door opens>
+<door closes>
 
-outside door messing with rug
-
-inside room trying to get plant 
-
-gets plant 
-
-gets kicked out of room
+<cat footsteps and purring>
 
 "Luna... where have you been"
 <Meow>
